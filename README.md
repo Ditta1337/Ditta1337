@@ -24,7 +24,7 @@ Gym 🏋, Pizza making 🍕, Swimming 🏊🏻‍♂️, Gaming 👾
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-![postgress](https://img.shields.io/badge/mssql-07405E?style=style-for-the-badge&logo=microsoft-sql-server&slogoColor=white)
+![mssql](https://img.shields.io/badge/mssql-07405E?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ![macos](https://img.shields.io/badge/MacOS-fb9062?style=for-the-badge&logo=apple&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
