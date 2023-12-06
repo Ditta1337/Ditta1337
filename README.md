@@ -5,7 +5,7 @@ with everything that is AI related 🤖
 ## My various interests
 ### Professional
 
-Computer Vision 👁️, Deep Learning in general 🧠🧮
+Computer Vision 👁️, Deep Learning in general 🧮
 
 ### Other
 
