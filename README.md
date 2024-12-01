@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artur</h1>
-<h3 align="center">Fullstack developer and Computer Science student at [AGH University](https://www.agh.edu.pl/) :green_heart::black_heart::heart: in Kraków, Poland</h3>
+<h3 align="center">Fullstack developer and Computer Science student at AGH University :green_heart::black_heart::heart: in Kraków, Poland</h3>
 
 - 🌱 I’m currently learning **C#, SvelteKit, Express.js**
 
